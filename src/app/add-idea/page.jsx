@@ -29,7 +29,7 @@ export default function AddIdeaPage() {
     const finalData = {
       ...formData,
       userEmail: "tanjilapatwaryy@gmail.com", 
-      userName: "Yusuf Mia",         
+      userName: "Parvez patwary",         
       createdAt: new Date(),
     };
 
